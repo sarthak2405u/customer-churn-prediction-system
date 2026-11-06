@@ -1,0 +1,11 @@
+customer_id,review_text,ml_sentiment,ml_confidence
+CUST-00001,The internet connection is excellent and customer service is very helpful.,Positive,0.8041
+CUST-00002,Very disappointed with the service. Internet is extremely slow.,Negative,0.8441
+CUST-00003,The customer support team resolved my issue quickly.,Negative,0.6393
+CUST-00004,I am unhappy with the expensive monthly subscription.,Positive,0.5538
+CUST-00005,Excellent internet speed and affordable pricing.,Positive,0.7169
+CUST-00006,Poor customer service and frequent internet disconnections.,Negative,0.7261
+CUST-00007,The service is average. Nothing special.,Negative,0.6959
+CUST-00008,I am very satisfied with the overall experience.,Positive,0.7631
+CUST-00009,Billing issues are frustrating and support is unhelpful.,Negative,0.5342
+CUST-00010,"Great experience, reliable internet and friendly staff.",Positive,0.9194

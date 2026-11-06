@@ -1,0 +1,55 @@
+Feature,Importance
+num__MonthlyContract,0.54024434
+num__tenure,0.345055
+num__MonthlyCharges,0.23380813
+cat__OnlineSecurity_No,0.22501338
+cat__InternetService_Fiber optic,0.19454733
+cat__Contract_Month-to-month,0.15186417
+cat__TechSupport_No,0.14725696
+cat__PaymentMethod_Electronic check,0.14198175
+cat__Contract_Two year,0.12074209
+num__TotalCharges,0.10708794
+cat__PaperlessBilling_No,0.09483875
+cat__MultipleLines_No,0.068807974
+cat__OnlineBackup_No,0.06016505
+cat__Contract_One year,0.052536063
+cat__StreamingMovies_Yes,0.047678094
+num__SeniorCitizen,0.028688913
+cat__Dependents_No,0.024140257
+cat__StreamingTV_Yes,0.022438543
+cat__InternetService_DSL,0.02097415
+cat__PaperlessBilling_Yes,0.015689988
+cat__MultipleLines_Yes,0.012473023
+num__AutoPayment,0.011583128
+cat__PhoneService_No,0.011292819
+cat__StreamingTV_No,0.011277115
+cat__gender_Female,0.01127618
+num__HasTechSupport,0.010761869
+cat__StreamingMovies_No,0.009801226
+cat__TenureGroup_New Customer,0.009491634
+num__TotalServices,0.009353171
+cat__DeviceProtection_No,0.006826407
+cat__PaymentMethod_Mailed check,0.005249588
+cat__OnlineBackup_Yes,0.0048820404
+cat__Dependents_Yes,0.004536221
+cat__InternetService_No,0.004319712
+cat__TenureGroup_Loyal Customer,0.004080115
+cat__PaymentMethod_Credit card (automatic),0.003790387
+cat__PhoneService_Yes,0.003677
+cat__OnlineSecurity_Yes,0.003278663
+cat__PaymentMethod_Bank transfer (automatic),0.0027923575
+cat__Partner_No,0.002617072
+cat__OnlineSecurity_No internet service,0.001940576
+cat__TenureGroup_Established Customer,0.001721936
+cat__gender_Male,0.001710881
+cat__TenureGroup_Long-Term Customer,0.0014031634
+cat__DeviceProtection_Yes,0.0011339261
+cat__TechSupport_Yes,0.0010514013
+cat__Partner_Yes,0.0009769863
+cat__TenureGroup_Regular Customer,0.0009736591
+cat__MultipleLines_No phone service,0.0005149866
+cat__DeviceProtection_No internet service,0.0
+cat__StreamingTV_No internet service,0.0
+cat__TechSupport_No internet service,0.0
+cat__OnlineBackup_No internet service,0.0
+cat__StreamingMovies_No internet service,0.0
